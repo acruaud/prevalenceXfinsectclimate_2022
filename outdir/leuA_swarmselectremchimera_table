@@ -1,0 +1,3 @@
+samplecode	ncleanPFpairedReads_Trimmomatic	nmergedPFreads_FLASH	nFullAmplicons	ninputSeq_Swarm	nclusters_Swarm	AverageNSeqinClusters_Swarm	MedianNSeqinClusters_Swarm	MinNSeqinClusters_Swarm	MaxNSeqinClusters_Swarm	nclusters_Swarm_FilterMinseq	nclusters_Swarm_FilterMinseqAndChimera
+JRAS07930_0104	1583	1107	887	887	107	8.28972	1	1	780	1	1
+JRAS07930_0105	2812	2088	1688	1688	156	10.8205	1	1	1524	1	1
