@@ -2,8 +2,7 @@
 
 The repo contains the bioinformatic pipeline used to analyse amplicon data generated in the following study :
 
-XXXXXXX
-
+Farigoule P, Chartois M, Mesmin X, Lambert M, Rossi J-P*, Rasplus J-Y*, and Cruaud A*. (*equal contributors). 2022. Vectors as Sentinels: Rising Temperatures Increase the Risk of <i>Xylella fastidiosa</i> Outbreaks. <i>Biology</i> 11:1299. https://doi.org/10.3390/biology11091299
 
 **Example data + scripts are provided in the example directory :**
 
